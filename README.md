@@ -36,3 +36,4 @@ Slider steuert Windstärke
 Farbe ändert sich dynamisch
 Spieler kann frei laufen
 
+Skizzen sind im Odner ressources/skizzen
